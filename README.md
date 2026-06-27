@@ -122,6 +122,11 @@ The final solution was designed as a six-page interactive dashboard comprising:
 6.  Insights & Recommendations
 
 # Key Findings
+## Seasonal Trends
+- Revenue consistently peaked during summer months, particularly in June and July, while off-peak periods displayed greater volatility, highlighting opportunities for dynamic pricing and promotional campaigns.
+
+![Exceutive Summary](executive_summary.png)
+
 ## Airline Performance
 - Southwest Airlines generated the highest revenue at $0.69M, primarily through high booking volumes. Southwest, American Airlines, and Delta Air Lines collectively accounted for more than half of total network revenue.
 
@@ -130,18 +135,21 @@ The final solution was designed as a six-page interactive dashboard comprising:
 ## Booking Channels
 - Cheap Flights emerged as the most valuable commercial partner, generating $0.41M in revenue and the highest average ticket price of $935 per booking, outperforming major competitors such as Expedia and Travelocity.
 
+![Air Channel Performance](airchannel_and_performance.png)
+
 ## Route Performance
 - Domestic routes contributed 57.4% of total revenue through booking volume, while international routes generated higher revenue per booking, making them stronger yield opportunities.
 
 - Atlanta–Mascot, SeaTac–Garhoud, and Denver–Haarlemmermeer were identified as the highest-performing routes.
+
+![Route Intelligence](route_intelligence.png)
 
 ## Customer Behaviour
 - Business travellers generated the highest overall revenue, with Business Class corporate travellers forming the most valuable customer segment.
 
 - One-way and return trips produced nearly identical revenue contributions, suggesting that pricing strategies have a greater impact on profitability than trip preferences.
 
-## Seasonal Trends
-- Revenue consistently peaked during summer months, particularly in June and July, while off-peak periods displayed greater volatility, highlighting opportunities for dynamic pricing and promotional campaigns.
+![Customer Segmentation](customer_segmentation.png)
 
 # Business Recommendations
 Based on the findings, the following recommendations were proposed:
